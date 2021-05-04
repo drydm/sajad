@@ -1,0 +1,29 @@
+{
+  
+"result": true,
+  
+"plugins_": {
+  
+"AddedMe.lua":"[♥ملف امر منو ضافني](https://t.me/TOKYO_TEAM/3)",
+  
+"TagAll.lua":"[ملف تاك منفصل للاعضاء](https://t.me/TOKYO_TEAM/4)",
+  
+"TagAdmins.lua":"[ملف تاك منفصل للمشرفين](https://t.me/TOKYO_TEAM/5)",
+  
+"ReplyBot.lua":"[ملف الردود الخاص بالسورس](https://t.me/TOKYO_TEAM/6)",
+      
+"MuteNames.lua":"[ملف كتم الاسماء للمجموعات](https://t.me/TOKYO_TEAM/7)",
+  
+"ProNames.lua":"[ملف وضع التوحيد للمجموعات](https://t.me/TOKYO_TEAM/8)",
+  
+"ChangeName.lua":"[ملف التنبيه لتغيير الاسم](https://t.me/TOKYO_TEAM/9)",
+    
+"ChangeUser.lua":"[ملف التنبيه لتغيير المعرف](https://t.me/TOKYO_TEAM/10)",
+  
+"ChangePhoto.lua":"[ملف التنبيه لتغيير الصوره](https://t.me/TOKYO_TEAM/11)",
+  
+"AutoFile.lua":"[ملف النسخ الاحتياطيه التلقائيه](https://t.me/TOKYO_TEAM/12)",
+  
+}
+  
+}
